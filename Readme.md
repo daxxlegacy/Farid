@@ -1,6 +1,6 @@
 <h1>💻 Detects Alzheimer Disease using MRI Scan - Python</h1>
 
-Dependencies
+<h2>Dependencies</h2>
 
 • <a href="https://www.python.org/downloads/" target="_blank">Python</a>
 
