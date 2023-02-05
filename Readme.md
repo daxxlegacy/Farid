@@ -1,4 +1,4 @@
-💻 Detects Alzheimer Disease using MRI Scan - Python
+<h1>💻 Detects Alzheimer Disease using MRI Scan - Python</h1>
 
 Dependencies
 
